@@ -1,7 +1,7 @@
 
 fun main() {
     //Val Inmutable
-    val nombre="Edison"
+    val nombre="alexander"
     val edad: Int = 28
     //Var mutable
     var contador=0
@@ -35,8 +35,8 @@ fun main() {
     
     //Utilidades de String
     //Expresiones
-	val primerNombre="Edison"
-    val primerApellido="Tanqueno"
+	val primerNombre="alexander"
+    val primerApellido="calo"
     val primerNombreMayuscula=primerNombre.uppercase()
     val primerApellidoMayuscula=primerApellido.uppercase()
     
